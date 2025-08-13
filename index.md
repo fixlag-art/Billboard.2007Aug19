@@ -5,10 +5,20 @@
 **EN:** A summer night in Roppongi, two hours before showtime—the skyline leads, conversations begin, and the city cools the day’s heat.  
 **JP:** 六本木の夏の夜。開演二時間前、外の青さが主役で、会話と涼しさがゆっくり満ちていく。
 
-<a href="https://music.amazon.co.jp/user-playlists/xxxxxxxxxxxxxxxxxxxx" style="display:inline-flex; align-items:center; text-decoration:none; padding:8px 12px; background:#232F3E; border-radius:4px; color:#fff; font-weight:bold; font-size:14px;">
-  <img src="images/music-note-icon.png" alt="Music" style="height:20px; margin-right:8px;">
-  Listen on Amazon Music
-</a>
+<div style="margin:12px 0;">
+  <a href="https://music.amazon.co.jp/user-playlists/cde5675021a04698ba0e51c0a7b7bc13jajp?ref=dm_sh_5646-30f6-5901-975e-21550"
+     target="_blank" rel="noopener"
+     style="display:inline-flex;align-items:center;gap:.55rem;
+            background:#232F3E;color:#fff;text-decoration:none;
+            padding:10px 14px;border-radius:8px;font-weight:700;
+            font-family:system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;
+            box-shadow:0 6px 16px rgba(35,47,62,.18);
+            transition:transform .08s ease,filter .2s ease,box-shadow .2s ease;">
+    <img src="images/music-note-icon.png" alt="" 
+         style="width:18px;height:18px;object-fit:contain;filter:invert(1);">
+    <span>Listen on Amazon Music</span>
+  </a>
+</div>
 
 ---
 
