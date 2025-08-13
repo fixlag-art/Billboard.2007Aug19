@@ -16,6 +16,8 @@ h1:first-of-type {
   Empowered by ChatGPT.
 </p>
 
+---
+
 # Aug-19-2007 — Billboard Live Tokyo [360RA/UHD]
 
 ![Blue Before the Music](images/blue-before-the-music.jpg "Blue Before the Music — twilight blue and skyline before the music")
