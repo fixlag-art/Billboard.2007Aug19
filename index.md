@@ -49,7 +49,7 @@ h1:first-of-type {
 - **Format legend:** [360RA] = 360 Reality Audio / [UHD] = Ultra HD Stereo  
 
 ## Credits
-Photography: Shoichi Sato ・ Curation & Notes: Shoichi Sato / Hacchi ・ Venue: Billboard Live Tokyo ・ Year: 2007 (reconstructed in 2025)
+- **Photography:** Shoichi Sato ・ **Curation & Notes:** Shoichi Sato / Hacchi ・ **Venue:** Billboard Live Tokyo ・ **Year:** 2007 (reconstructed in 2025)
 
 ---
 <div style="margin:12px 0;">
