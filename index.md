@@ -6,8 +6,8 @@
 **JP:** 六本木の夏の夜。開演二時間前、外の青さが主役で、会話と涼しさがゆっくり満ちていく。
 
 🎵 **Listen on Amazon Music:**  
-https://music.amazon.co.jp/user-playlists/cde5675021a04698ba0e51c0a7b7bc13jajp?ref=dm_sh_5646-30f6-5901-975e-21550
-
+<a href="https://music.amazon.co.jp/user-playlists/cde5675021a04698ba0e51c0a7b7bc13jajp?ref=dm_sh_5646-30f6-5901-975e-21550">
+View Play List</a>
 ---
 
 ## Visuals
