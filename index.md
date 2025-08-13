@@ -5,16 +5,8 @@
 **EN:** A summer night in Roppongi, two hours before showtime—the skyline leads, conversations begin, and the city cools the day’s heat.  
 **JP:** 六本木の夏の夜。開演二時間前、外の青さが主役で、会話と涼しさがゆっくり満ちていく。
 
-🎵 **Listen on Amazon Music:**  
-<a href="https://music.amazon.co.jp/user-playlists/cde5675021a04698ba0e51c0a7b7bc13jajp?ref=dm_sh_5646-30f6-5901-975e-21550" 
-   target="_blank" 
-   style="display:inline-block;background:#232F3E;
-          padding:8px 15px;border-radius:5px;
-          color:#fff;font-size:14px;text-decoration:none;
-          font-family:sans-serif;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Amazon_Music_logo.svg/100px-Amazon_Music_logo.svg.png" 
-       alt="Amazon Music" 
-       style="height:16px;vertical-align:middle;margin-right:8px;">
+<a href="https://music.amazon.co.jp/user-playlists/xxxxxxxxxxxxxxxxxxxx" style="display:inline-flex; align-items:center; text-decoration:none; padding:8px 12px; background:#232F3E; border-radius:4px; color:#fff; font-weight:bold; font-size:14px;">
+  <img src="images/music-note-icon.png" alt="Music" style="height:20px; margin-right:8px;">
   Listen on Amazon Music
 </a>
 
