@@ -1,3 +1,7 @@
+<p style="color:#70757a;font-size:.9rem;margin:.5rem 0 1rem;">
+  ※本ページはファンによる個人アーカイブであり、Billboard Live Tokyoおよび各社とは提携していません。
+</p>
+
 # Aug-19-2007 — Billboard Live Tokyo [360RA/UHD]
 
 ![Blue Before the Music](images/blue-before-the-music.jpg "Blue Before the Music — twilight blue and skyline before the music")
@@ -6,15 +10,15 @@
 **JP:** 六本木の夏の夜。開演二時間前、外の青さが主役で、会話と涼しさがゆっくり満ちていく。
 
 <div style="margin:12px 0;">
-  <a href="https://music.amazon.co.jp/user-playlists/cde5675021a04698ba0e51c0a7b7bc13jajp?ref=dm_sh_5646-30f6-5901-975e-21550"
-     target="_blank" rel="noopener"
+  <a href="https://music.amazon.co.jp/user-playlists/cde5675021a04698ba0e51c0a7b7bc13jajp?ref=dm_sh_5646-30f6-5901-975e-21550&tag=shoichi-22"
+     target="_blank" rel="sponsored nofollow noopener"
      style="display:inline-flex;align-items:center;gap:.55rem;
             background:#232F3E;color:#fff;text-decoration:none;
             padding:10px 14px;border-radius:8px;font-weight:700;
             font-family:system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;
             box-shadow:0 6px 16px rgba(35,47,62,.18);
-            transition:transform .08s ease,filter .2s ease,box-shadow .2s ease;">
-    <img src="images/music-note-icon.png" alt="" 
+            transition:transform .08s ease,filter .2s ease;">
+    <img src="images/music-note-icon.png" alt=""
          style="width:18px;height:18px;object-fit:contain;filter:invert(1);">
     <span>Listen on Amazon Music</span>
   </a>
@@ -39,3 +43,10 @@
 
 ## Credits
 Photography: Shoichi Sato ・ Curation & Notes: Shoichi Sato / Hacchi ・ Venue: Billboard Live Tokyo ・ Year: 2007 (reconstructed in 2025)
+
+<p style="color:#666;font-size:.92rem;margin:.5rem 0 0;">
+  当サイトはAmazonアソシエイト・プログラムの参加者です。適格販売により収入を得る場合があります。
+</p>
+<p style="color:#666;font-size:.92rem;margin:.1rem 0 1rem;">
+  As an Amazon Associate I earn from qualifying purchases.
+</p>
