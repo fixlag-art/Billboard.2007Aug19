@@ -127,7 +127,7 @@ h1:first-of-type {
 
 <hr style="border:none;border-top:1px solid #e5e5e5;margin:1.25rem 0 1rem;">
 
-/*
+<!--
 <div style="display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin:.25rem 0 1.25rem;">
 <!-- Amazon Music ボタン -->
   <a href="https://music.amazon.co.jp/user-playlists/cde5675021a04698ba0e51c0a7b7bc13jajp?ref=dm_sh_5646-30f6-5901-975e-21550&tag=shoichi-22"
@@ -148,4 +148,4 @@ h1:first-of-type {
     <div>当サイトはAmazonアソシエイト・プログラムの参加者です。適格販売により収入を得る場合があります。</div>
   </div>
 </div>
-*/
+-->
