@@ -49,7 +49,31 @@ h1:first-of-type {
 - **Format legend:** [360RA] = 360 Reality Audio / [UHD] = Ultra HD Stereo  
 
 ## Credits
-- **Photography:** Shoichi Sato ・ **Curation & Notes:** Shoichi Sato / Hacchi ・ **Venue:** Billboard Live Tokyo ・ **Year:** 2007 (reconstructed in 2025)
+<style>
+  .credits {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5em;
+  }
+  .credits span {
+    white-space: nowrap;
+  }
+
+  /* 画面幅600px以下なら縦並び＆左揃え */
+  @media (max-width: 600px) {
+    .credits {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  }
+</style>
+
+<div class="credits">
+  <span><strong>Photography:</strong> Shoichi Sato</span>
+  <span><strong>Curation & Notes:</strong> Shoichi Sato / Hacchi</span>
+  <span><strong>Venue:</strong> Billboard Live Tokyo</span>
+  <span><strong>Year:</strong> 2007 (reconstructed in 2025)</span>
+</div>
 
 ---
 <div style="display: flex; align-items: center; gap: 10px; margin-top: 1em;">
