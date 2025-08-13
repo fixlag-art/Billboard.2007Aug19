@@ -27,11 +27,9 @@ h1:first-of-type {
 
 # Aug-19-2007 — Billboard Live Tokyo [360RA/UHD]
 
-<!-- Block 1: Blue Before the Music (Text → Photo → Button) -->
+<!-- Block 1: Blue Before the Music -->
 <div style="background-color:#fdf6e3; padding:1.5em; border-radius:8px; margin:2em 0;">
-
-  <!-- Caption / Main Text -->
-  <div style="font-family:'Georgia', serif; font-size:1.22em; line-height:1.7; color:#333; margin-bottom:1em;">
+  <div style="font-family:'Georgia', serif; font-size:1.22em; line-height:1.7; font-weight:500; letter-spacing:0.3px; color:#333; margin-bottom:1em;">
     <p style="margin-bottom:0.6em;">
       <strong>In late-summer Roppongi</strong>, the sky holds a flawless blue, as if burnished by the season itself.
       Beyond, the silhouettes of distant towers stand in quiet command, while the evening breeze and low, easy voices
@@ -41,12 +39,8 @@ h1:first-of-type {
       六本木の晩夏、空に青さが澄みわたっている。日暮れとともに、涼風と会話がゆっくり満ちていく。
     </p>
   </div>
-
-  <!-- Photo -->
   <img src="images/blue-before-the-music.jpg" alt="Blue Before the Music"
-       style="max-width:100%; height:auto; border-radius:6px; margin-bottom:1em;">
-
-  <!-- Link Button -->
+       style="max-width:100%; height:auto; border-radius:6px; margin-bottom:1.2em;">
   <div style="margin-top:.25em;">
     <a href="https://music.amazon.co.jp/user-playlists/cde5675021a04698ba0e51c0a7b7bc13jajp?ref=dm_sh_5646-30f6-5901-975e-21550&tag=shoichi-22"
        target="_blank" rel="sponsored nofollow noopener"
@@ -62,11 +56,9 @@ h1:first-of-type {
 </div>
 
 
-<!-- Block 2: Before the Passion Unfolds (Text → Photo → Button) -->
+<!-- Block 2: Before the Passion Unfolds -->
 <div style="background-color:#fdf6e3; padding:1.5em; border-radius:8px; margin:2em 0;">
-
-  <!-- Caption / Main Text -->
-  <div style="font-family:'Georgia', serif; font-size:1.22em; line-height:1.7; color:#333; margin-bottom:1em;">
+  <div style="font-family:'Georgia', serif; font-size:1.22em; line-height:1.7; font-weight:500; letter-spacing:0.3px; color:#333; margin-bottom:1em;">
     <p style="margin-bottom:0.6em;">
       Instruments waiting under warm downlights, holding a quiet charge before hearts ascend.
     </p>
@@ -74,12 +66,8 @@ h1:first-of-type {
       温かなダウンライトの下で待つ楽器たち。心が高ぶる瞬間を静かに待ち受ける。
     </p>
   </div>
-
-  <!-- Photo -->
   <img src="images/before-the-passion-unfolds.jpg" alt="Before the Passion Unfolds"
-       style="max-width:100%; height:auto; border-radius:6px; margin-bottom:1em;">
-
-  <!-- Link Button -->
+       style="max-width:100%; height:auto; border-radius:6px; margin-bottom:1.2em;">
   <div style="margin-top:.25em;">
     <a href="https://music.amazon.co.jp/user-playlists/cde5675021a04698ba0e51c0a7b7bc13jajp?ref=dm_sh_5646-30f6-5901-975e-21550&tag=shoichi-22"
        target="_blank" rel="sponsored nofollow noopener"
@@ -95,11 +83,9 @@ h1:first-of-type {
 </div>
 
 
-<!-- Block 3: Echoes Melt into the Summer Night (Text → Photo → Button) -->
+<!-- Block 3: Echoes Melt into the Summer Night -->
 <div style="background-color:#fdf6e3; padding:1.5em; border-radius:8px; margin:2em 0;">
-
-  <!-- Caption / Main Text -->
-  <div style="font-family:'Georgia', serif; font-size:1.22em; line-height:1.7; color:#333; margin-bottom:1em;">
+  <div style="font-family:'Georgia', serif; font-size:1.22em; line-height:1.7; font-weight:500; letter-spacing:0.3px; color:#333; margin-bottom:1em;">
     <p style="margin-bottom:0.6em;">
       The resonance lingers, mingling with the warmth of a summer night, as if the music itself is reluctant to leave.
     </p>
@@ -107,12 +93,8 @@ h1:first-of-type {
       響きは夏の夜の温もりと混じり合い、まるで音楽そのものが去りがたく留まっているかのよう。
     </p>
   </div>
-
-  <!-- Photo -->
-  <img src="images/echoes-and-afterimages.jpg" alt="Echoes Melt into the Summer Night"
-       style="max-width:100%; height:auto; border-radius:6px; margin-bottom:1em;">
-
-  <!-- Link Button -->
+  <img src="images/echoes-melt-into-summer-night.jpg" alt="Echoes Melt into the Summer Night"
+       style="max-width:100%; height:auto; border-radius:6px; margin-bottom:1.2em;">
   <div style="margin-top:.25em;">
     <a href="https://music.amazon.co.jp/user-playlists/cde5675021a04698ba0e51c0a7b7bc13jajp?ref=dm_sh_5646-30f6-5901-975e-21550&tag=shoichi-22"
        target="_blank" rel="sponsored nofollow noopener"
@@ -126,6 +108,7 @@ h1:first-of-type {
     </a>
   </div>
 </div>
+
 
 <hr style="border:none;border-top:1px solid #e5e5e5;margin:1.75rem 0 .75rem;">
 
