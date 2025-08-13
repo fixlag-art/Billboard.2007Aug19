@@ -23,8 +23,7 @@ h1:first-of-type {
   Empowered by <b>ChatGPT</b>.
 </p>
 
-
----
+<hr style="border:none;border-top:1px solid #e5e5e5;margin:1.25rem 0 1rem;">
 
 # Aug-19-2007 — Billboard Live Tokyo [360RA/UHD]
 
