@@ -1,3 +1,9 @@
+<style>
+h1:first-of-type {
+  display: none;
+}
+</style>
+
 <p style="color:#666;font-size:.88rem;font-style:italic;margin:.5rem 0 1rem;">
   This is an independent fan-made archive, not affiliated with Billboard Live Tokyo or related companies.<br>
   Empowered by <a href="https://openai.com/" target="_blank" rel="noopener" style="color:#666;text-decoration:underline;">ChatGPT</a>.
@@ -44,6 +50,9 @@
 
 ## Credits
 Photography: Shoichi Sato ・ Curation & Notes: Shoichi Sato / Hacchi ・ Venue: Billboard Live Tokyo ・ Year: 2007 (reconstructed in 2025)
+
+---
+[![Listen on Amazon Music](images/music-icon.png)](https://www.amazon.co.jp/dp/xxxx/?tag=shoichi-22)
 
 <p style="color:#666;font-size:.92rem;margin:.1rem 0 1rem;">
   As an Amazon Associate I earn from qualifying purchases.
