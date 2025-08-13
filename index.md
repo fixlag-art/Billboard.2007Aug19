@@ -22,8 +22,8 @@ h1:first-of-type {
 
 ![Blue Before the Music](images/blue-before-the-music.jpg "Blue Before the Music — twilight blue and skyline before the music")
 
-A summer night in Roppongi, two hours before showtime—the skyline leads, conversations begin, and the city cools the day’s heat.  
-六本木の夏の夜。開演二時間前、外の青さが主役で、会話と涼しさがゆっくり満ちていく。
+In late-summer Roppongi, the sky holds a flawless blue, as if burnished by the season itself. Beyond, the silhouettes of distant towers stand in quiet command, while the evening breeze and low, easy voices spill gently into the gathering dusk.  
+六本木の晩夏、空に青さが澄みわたっている。日暮れととともに、涼風と会話がゆっくり満ちていく。
 
 <div style="margin:12px 0;">
   <a href="https://music.amazon.co.jp/user-playlists/cde5675021a04698ba0e51c0a7b7bc13jajp?ref=dm_sh_5646-30f6-5901-975e-21550&tag=shoichi-22"
