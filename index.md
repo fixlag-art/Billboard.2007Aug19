@@ -54,7 +54,7 @@ h1:first-of-type {
 ---
 <div style="display: flex; align-items: center; gap: 10px; margin-top: 1em;">
   <!-- Amazon Music ボタン -->
-  <a href="https://www.amazon.co.jp/dp/xxxx/?tag=shoichi-22" 
+  <a href="https://music.amazon.co.jp/user-playlists/cde5675021a04698ba0e51c0a7b7bc13jajp?ref=dm_sh_5646-30f6-5901-975e-21550&tag=shoichi-22" 
      style="display: inline-flex; align-items: center; gap: 0.5em; background-color: #232F3E; color: white; padding: 8px 12px; border-radius: 6px; text-decoration: none; font-weight: bold;">
     <img src="images/music-icon.png" alt="Music Icon" style="width: 20px; height: 20px;">
     Listen on Amazon Music
