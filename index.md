@@ -110,7 +110,7 @@ h1:first-of-type {
   </div>
 
   <!-- Photo -->
-  <img src="images/echoes-melt-into-summer-night.jpg" alt="Echoes Melt into the Summer Night"
+  <img src="images/echoes-and-afterimages.jpg" alt="Echoes Melt into the Summer Night"
        style="max-width:100%; height:auto; border-radius:6px; margin-bottom:1em;">
 
   <!-- Link Button -->
