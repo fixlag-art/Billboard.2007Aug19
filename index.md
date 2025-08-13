@@ -12,7 +12,7 @@ h1:first-of-type {
 
 <p style="color:#666;font-size:.88rem;font-style:italic;margin:.5rem 0 1rem;">
   This is an independent fan-made archive, not affiliated with Billboard Live Tokyo or related companies.<br>
-  <span class="jp">本ページはファンによる個人アーカイブであり、Billboard Live Tokyoはお気に入りのライブハウスです。</span><br>
+  <span class="jp">本ページはファンによる個人アーカイブであり、Billboard Live Tokyoの企画を応援しています。</span><br>
   Empowered by <b>ChatGPT</b>.
 </p>
 
