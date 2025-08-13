@@ -23,8 +23,7 @@ View Play List</a>
 ---
 
 ## Notes
-- **Format legend:** [360RA] = 360 Reality Audio / [UHD] = Ultra HD stereo  
-- プレイリスト内のカバー画像や説明文はAmazon Music側でカスタム不可のため、ビジュアルと解説は本ページで展開しています。
+- **Format legend:** [360RA] = 360 Reality Audio / [UHD] = Ultra HD Stereo  
 
 ## Credits
 Photography: Shoichi Sato ・ Curation & Notes: Shoichi Sato / Hacchi ・ Venue: Billboard Live Tokyo ・ Year: 2007 (reconstructed in 2025)
