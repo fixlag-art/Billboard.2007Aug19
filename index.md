@@ -28,30 +28,11 @@ h1:first-of-type {
 
 # Aug-19-2007 — Billboard Live Tokyo [360RA/UHD]
 
-<!-- Block 1 -->
+<!-- Block 1: Blue Before the Music (Text → Photo → Button) -->
 <div style="background-color:#fdf6e3; padding:1.5em; border-radius:8px; margin:2em 0;">
 
-  <!-- Link Button -->
-  <div style="margin-bottom:1em;">
-    <a href="AMAZON_LINK_1" target="_blank" rel="sponsored nofollow noopener"
-       style="display:inline-flex;align-items:center;gap:.55rem;
-              background:#232F3E;color:#fff;text-decoration:none;
-              padding:10px 14px;border-radius:8px;font-weight:700;
-              font-family:system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;
-              box-shadow:0 6px 16px rgba(35,47,62,.18);
-              transition:transform .08s ease,filter .2s ease;">
-      <img src="images/music-note-icon.png" alt=""
-           style="width:18px;height:18px;object-fit:contain;filter:invert(1);">
-      <span>Listen on Amazon Music</span>
-    </a>
-  </div>
-
-  <!-- Photo -->
-  <img src="images/blue-before-the-music.jpg" alt="Blue Before the Music"
-       style="max-width:100%; height:auto; border-radius:4px; margin-bottom:1em;">
-
-  <!-- Caption -->
-  <div style="font-family:'Georgia', serif; font-size:1.15em; line-height:1.6; color:#333;">
+  <!-- Caption / Main Text -->
+  <div style="font-family:'Georgia', serif; font-size:1.15em; line-height:1.6; color:#333; margin-bottom:1em;">
     <p style="margin-bottom:0.6em;">
       <strong>In late-summer Roppongi</strong>, the sky holds a flawless blue, as if burnished by the season itself.
       Beyond, the silhouettes of distant towers stand in quiet command, while the evening breeze and low, easy voices
@@ -61,28 +42,32 @@ h1:first-of-type {
       六本木の晩夏、空に青さが澄みわたっている。日暮れとともに、涼風と会話がゆっくり満ちていく。
     </p>
   </div>
-</div>
 
-<!-- Block 2 -->
-<div style="background-color:#fdf6e3; padding:1.5em; border-radius:8px; margin:2em 0;">
-  <div style="margin-bottom:1em;">
-    <a href="AMAZON_LINK_2" target="_blank" rel="sponsored nofollow noopener"
+  <!-- Photo -->
+  <img src="images/blue-before-the-music.jpg" alt="Blue Before the Music"
+       style="max-width:100%; height:auto; border-radius:4px; margin-bottom:1em;">
+
+  <!-- Link Button -->
+  <div style="margin-top:.25em;">
+    <a href="https://music.amazon.co.jp/user-playlists/cde5675021a04698ba0e51c0a7b7bc13jajp?ref=dm_sh_5646-30f6-5901-975e-21550&tag=shoichi-22"
+       target="_blank" rel="sponsored nofollow noopener"
        style="display:inline-flex;align-items:center;gap:.55rem;
               background:#232F3E;color:#fff;text-decoration:none;
               padding:10px 14px;border-radius:8px;font-weight:700;
               font-family:system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;
-              box-shadow:0 6px 16px rgba(35,47,62,.18);
-              transition:transform .08s ease,filter .2s ease;">
-      <img src="images/music-note-icon.png" alt=""
-           style="width:18px;height:18px;object-fit:contain;filter:invert(1);">
+              box-shadow:0 6px 16px rgba(35,47,62,.18);">
+      <img src="images/music-note-icon.png" alt="" style="width:18px;height:18px;object-fit:contain;filter:invert(1);">
       <span>Listen on Amazon Music</span>
     </a>
   </div>
+</div>
 
-  <img src="images/before-the-passion-unfolds.jpg" alt="Before the Passion Unfolds"
-       style="max-width:100%; height:auto; border-radius:4px; margin-bottom:1em;">
 
-  <div style="font-family:'Georgia', serif; font-size:1.15em; line-height:1.6; color:#333;">
+<!-- Block 2: Before the Passion Unfolds (Text → Photo → Button) -->
+<div style="background-color:#fdf6e3; padding:1.5em; border-radius:8px; margin:2em 0;">
+
+  <!-- Caption / Main Text -->
+  <div style="font-family:'Georgia', serif; font-size:1.15em; line-height:1.6; color:#333; margin-bottom:1em;">
     <p style="margin-bottom:0.6em;">
       Instruments waiting under warm downlights, holding a quiet charge before hearts ascend.
     </p>
@@ -90,32 +75,32 @@ h1:first-of-type {
       温かなダウンライトの下で待つ楽器たち。心が高ぶる瞬間を静かに待ち受ける。
     </p>
   </div>
-</div>
 
-<!-- Block 3 -->
-<div style="background-color:#fdf6e3; padding:1.5em; border-radius:8px; margin:2em 0;">
+  <!-- Photo -->
+  <img src="images/before-the-passion-unfolds.jpg" alt="Before the Passion Unfolds"
+       style="max-width:100%; height:auto; border-radius:4px; margin-bottom:1em;">
 
   <!-- Link Button -->
-  <div style="margin-bottom:1em;">
-    <a href="AMAZON_LINK_3" target="_blank" rel="sponsored nofollow noopener"
+  <div style="margin-top:.25em;">
+    <a href="https://music.amazon.co.jp/user-playlists/cde5675021a04698ba0e51c0a7b7bc13jajp?ref=dm_sh_5646-30f6-5901-975e-21550&tag=shoichi-22"
+       target="_blank" rel="sponsored nofollow noopener"
        style="display:inline-flex;align-items:center;gap:.55rem;
               background:#232F3E;color:#fff;text-decoration:none;
               padding:10px 14px;border-radius:8px;font-weight:700;
               font-family:system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;
-              box-shadow:0 6px 16px rgba(35,47,62,.18);
-              transition:transform .08s ease,filter .2s ease;">
-      <img src="images/music-note-icon.png" alt=""
-           style="width:18px;height:18px;object-fit:contain;filter:invert(1);">
+              box-shadow:0 6px 16px rgba(35,47,62,.18);">
+      <img src="images/music-note-icon.png" alt="" style="width:18px;height:18px;object-fit:contain;filter:invert(1);">
       <span>Listen on Amazon Music</span>
     </a>
   </div>
+</div>
 
-  <!-- Photo -->
-  <img src="images/echoes-and-afterimages.jpg" alt="Echoes Melt into the Summer Night"
-       style="max-width:100%; height:auto; border-radius:4px; margin-bottom:1em;">
 
-  <!-- Caption -->
-  <div style="font-family:'Georgia', serif; font-size:1.15em; line-height:1.6; color:#333;">
+<!-- Block 3: Echoes Melt into the Summer Night (Text → Photo → Button) -->
+<div style="background-color:#fdf6e3; padding:1.5em; border-radius:8px; margin:2em 0;">
+
+  <!-- Caption / Main Text -->
+  <div style="font-family:'Georgia', serif; font-size:1.15em; line-height:1.6; color:#333; margin-bottom:1em;">
     <p style="margin-bottom:0.6em;">
       The resonance lingers, mingling with the warmth of a summer night, as if the music itself is reluctant to leave.
     </p>
@@ -124,6 +109,23 @@ h1:first-of-type {
     </p>
   </div>
 
+  <!-- Photo -->
+  <img src="images/echoes-melt-into-summer-night.jpg" alt="Echoes Melt into the Summer Night"
+       style="max-width:100%; height:auto; border-radius:4px; margin-bottom:1em;">
+
+  <!-- Link Button -->
+  <div style="margin-top:.25em;">
+    <a href="https://music.amazon.co.jp/user-playlists/cde5675021a04698ba0e51c0a7b7bc13jajp?ref=dm_sh_5646-30f6-5901-975e-21550&tag=shoichi-22"
+       target="_blank" rel="sponsored nofollow noopener"
+       style="display:inline-flex;align-items:center;gap:.55rem;
+              background:#232F3E;color:#fff;text-decoration:none;
+              padding:10px 14px;border-radius:8px;font-weight:700;
+              font-family:system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;
+              box-shadow:0 6px 16px rgba(35,47,62,.18);">
+      <img src="images/music-note-icon.png" alt="" style="width:18px;height:18px;object-fit:contain;filter:invert(1);">
+      <span>Listen on Amazon Music</span>
+    </a>
+  </div>
 </div>
 
 <hr style="border:none;border-top:1px solid #e5e5e5;margin:1.75rem 0 .75rem;">
