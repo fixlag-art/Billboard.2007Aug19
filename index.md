@@ -54,10 +54,17 @@ h1:first-of-type {
 ---
 <div style="display: flex; align-items: center; gap: 10px; margin-top: 1em;">
   <!-- Amazon Music ボタン -->
-  <a href="https://music.amazon.co.jp/user-playlists/cde5675021a04698ba0e51c0a7b7bc13jajp?ref=dm_sh_5646-30f6-5901-975e-21550&tag=shoichi-22" 
-     style="display: inline-flex; align-items: center; gap: 0.5em; background-color: #232F3E; color: white; padding: 8px 12px; border-radius: 6px; text-decoration: none; font-weight: bold;">
-    <img src="images/music-icon.png" alt="Music Icon" style="width: 20px; height: 20px;">
-    Listen on Amazon Music
+  <a href="https://music.amazon.co.jp/user-playlists/cde5675021a04698ba0e51c0a7b7bc13jajp?ref=dm_sh_5646-30f6-5901-975e-21550&tag=shoichi-22"
+     target="_blank" rel="sponsored nofollow noopener"
+     style="display:inline-flex;align-items:center;gap:.55rem;
+            background:#232F3E;color:#fff;text-decoration:none;
+            padding:10px 14px;border-radius:8px;font-weight:700;
+            font-family:system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;
+            box-shadow:0 6px 16px rgba(35,47,62,.18);
+            transition:transform .08s ease,filter .2s ease;">
+    <img src="images/music-note-icon.png" alt=""
+         style="width:18px;height:18px;object-fit:contain;filter:invert(1);">
+    <span>Listen on Amazon Music</span>
   </a>
 
   <!-- アフィリエイト表記 -->
