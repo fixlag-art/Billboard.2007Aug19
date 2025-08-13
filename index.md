@@ -10,12 +10,19 @@ h1:first-of-type {
   .jp{ color:#444; display:block; margin-top:.15rem; }  /* 日本語行 */
 </style>
 
-<p style="color:#555;font-size:.95rem;line-height:1.6;font-style:italic;margin:.75rem 0 1.25rem;
-          background:#f7f7f7;padding:.6rem .8rem;border-left:4px solid #bbb;border-radius:6px;">
+<p style="color:#555;
+          font-size:.95rem;
+          line-height:1.6;
+          font-style:italic;
+          margin:.75rem 0 1.25rem;
+          border:1px solid #ccc;
+          padding:.6rem .8rem;
+          border-radius:6px;">
   This is an independent fan-made archive, not affiliated with Billboard Live Tokyo or related companies.<br>
   <span style="color:#555;">本ページはファンによる個人アーカイブであり、Billboard Live Tokyoの企画を応援しています。</span><br>
   Empowered by <b>ChatGPT</b>.
 </p>
+
 
 ---
 
