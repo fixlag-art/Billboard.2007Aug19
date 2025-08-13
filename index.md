@@ -52,7 +52,7 @@ h1:first-of-type {
 Photography: Shoichi Sato ・ Curation & Notes: Shoichi Sato / Hacchi ・ Venue: Billboard Live Tokyo ・ Year: 2007 (reconstructed in 2025)
 
 ---
-[![Listen on Amazon Music](images/music-icon.png)](https://www.amazon.co.jp/dp/xxxx/?tag=shoichi-22)
+[![Listen on Amazon Music](images/music-icon.png)](https://www.amazon.co.jp/cde5675021a04698ba0e51c0a7b7bc13jajp?ref=dm_sh_5646-30f6-5901-975e-21550&tag=shoichi-22)
 
 <p style="color:#666;font-size:.92rem;margin:.1rem 0 1rem;">
   As an Amazon Associate I earn from qualifying purchases.
