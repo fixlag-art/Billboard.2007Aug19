@@ -1,5 +1,6 @@
-<p style="color:#70757a;font-size:.9rem;margin:.5rem 0 1rem;">
-  ※本ページはファンによる個人アーカイブであり、Billboard Live Tokyoおよび各社とは提携していません。
+<p style="color:#666;font-size:.88rem;font-style:italic;margin:.5rem 0 1rem;">
+  This is an independent fan-made archive, not affiliated with Billboard Live Tokyo or related companies.<br>
+  Empowered by <a href="https://openai.com/" target="_blank" rel="noopener" style="color:#666;text-decoration:underline;">ChatGPT</a>.
 </p>
 
 # Aug-19-2007 — Billboard Live Tokyo [360RA/UHD]
@@ -44,9 +45,9 @@
 ## Credits
 Photography: Shoichi Sato ・ Curation & Notes: Shoichi Sato / Hacchi ・ Venue: Billboard Live Tokyo ・ Year: 2007 (reconstructed in 2025)
 
-<p style="color:#666;font-size:.92rem;margin:.5rem 0 0;">
-  当サイトはAmazonアソシエイト・プログラムの参加者です。適格販売により収入を得る場合があります。
-</p>
 <p style="color:#666;font-size:.92rem;margin:.1rem 0 1rem;">
   As an Amazon Associate I earn from qualifying purchases.
+</p>
+<p style="color:#666;font-size:.92rem;margin:.5rem 0 0;">
+  当サイトはAmazonアソシエイト・プログラムの参加者です。適格販売により収入を得る場合があります。
 </p>
