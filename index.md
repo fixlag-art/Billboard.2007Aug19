@@ -52,23 +52,17 @@ h1:first-of-type {
 - **Photography:** Shoichi Sato ・ **Curation & Notes:** Shoichi Sato / Hacchi ・ **Venue:** Billboard Live Tokyo ・ **Year:** 2007 (reconstructed in 2025)
 
 ---
-<div style="margin:12px 0;">
-  <a href="https://music.amazon.co.jp/user-playlists/cde5675021a04698ba0e51c0a7b7bc13jajp?ref=dm_sh_5646-30f6-5901-975e-21550&tag=shoichi-22"
-     target="_blank" rel="sponsored nofollow noopener"
-     style="display:inline-flex;align-items:center;gap:.55rem;
-            background:#232F3E;color:#fff;text-decoration:none;
-            padding:10px 14px;border-radius:8px;font-weight:700;
-            font-family:system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;
-            box-shadow:0 6px 16px rgba(35,47,62,.18);
-            transition:transform .08s ease,filter .2s ease;">
-    <img src="images/music-note-icon.png" alt=""
-         style="width:18px;height:18px;object-fit:contain;filter:invert(1);">
-    <span>Listen on Amazon Music</span>
+<div style="display: flex; align-items: center; gap: 10px; margin-top: 1em;">
+  <!-- Amazon Music ボタン -->
+  <a href="https://www.amazon.co.jp/dp/xxxx/?tag=shoichi-22" 
+     style="display: inline-flex; align-items: center; gap: 0.5em; background-color: #232F3E; color: white; padding: 8px 12px; border-radius: 6px; text-decoration: none; font-weight: bold;">
+    <img src="images/music-icon.png" alt="Music Icon" style="width: 20px; height: 20px;">
+    Listen on Amazon Music
   </a>
+
+  <!-- アフィリエイト表記 -->
+  <div style="font-size: 0.85em; line-height: 1.4;">
+    <div>As an Amazon Associate I earn from qualifying purchases.</div>
+    <div>当サイトはAmazonアソシエイト・プログラムの参加者です。適格販売により収入を得る場合があります。</div>
+  </div>
 </div>
-<p style="color:#666;font-size:.92rem;margin:.1rem 0 1rem;">
-  As an Amazon Associate I earn from qualifying purchases.
-</p>
-<p style="color:#666;font-size:.92rem;margin:.5rem 0 0;">
-  当サイトはAmazonアソシエイト・プログラムの参加者です。適格販売により収入を得る場合があります。
-</p>
