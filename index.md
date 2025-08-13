@@ -3,10 +3,17 @@ h1:first-of-type {
   display: none;
 }
 </style>
+<style>
+  /* 二言語リスト共通 */
+  ul.bidi{ padding-left:1.2em; margin-top:0; }
+  ul.bidi > li{ margin:.4rem 0; line-height:1.55; }
+  .jp{ color:#444; display:block; margin-top:.15rem; }  /* 日本語行 */
+</style>
 
 <p style="color:#666;font-size:.88rem;font-style:italic;margin:.5rem 0 1rem;">
   This is an independent fan-made archive, not affiliated with Billboard Live Tokyo or related companies.<br>
-  Empowered by <a href="https://openai.com/" target="_blank" rel="noopener" style="color:#666;text-decoration:underline;">ChatGPT</a>.
+  <span class="jp">本ページはファンによる個人アーカイブであり、Billboard Live Tokyo等の関係各社とは無関係です。</span><br>
+  Empowered by ChatGPT.
 </p>
 
 # Aug-19-2007 — Billboard Live Tokyo [360RA/UHD]
