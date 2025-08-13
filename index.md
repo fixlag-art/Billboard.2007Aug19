@@ -32,7 +32,7 @@ h1:first-of-type {
 <div style="background-color:#fdf6e3; padding:1.5em; border-radius:8px; margin:2em 0;">
 
   <!-- Caption / Main Text -->
-  <div style="font-family:'Georgia', serif; font-size:1.15em; line-height:1.6; color:#333; margin-bottom:1em;">
+  <div style="font-family:'Georgia', serif; font-size:1.22em; line-height:1.7; color:#333; margin-bottom:1em;">
     <p style="margin-bottom:0.6em;">
       <strong>In late-summer Roppongi</strong>, the sky holds a flawless blue, as if burnished by the season itself.
       Beyond, the silhouettes of distant towers stand in quiet command, while the evening breeze and low, easy voices
@@ -45,7 +45,7 @@ h1:first-of-type {
 
   <!-- Photo -->
   <img src="images/blue-before-the-music.jpg" alt="Blue Before the Music"
-       style="max-width:100%; height:auto; border-radius:4px; margin-bottom:1em;">
+       style="max-width:100%; height:auto; border-radius:6px; margin-bottom:1em;">
 
   <!-- Link Button -->
   <div style="margin-top:.25em;">
@@ -67,7 +67,7 @@ h1:first-of-type {
 <div style="background-color:#fdf6e3; padding:1.5em; border-radius:8px; margin:2em 0;">
 
   <!-- Caption / Main Text -->
-  <div style="font-family:'Georgia', serif; font-size:1.15em; line-height:1.6; color:#333; margin-bottom:1em;">
+  <div style="font-family:'Georgia', serif; font-size:1.22em; line-height:1.7; color:#333; margin-bottom:1em;">
     <p style="margin-bottom:0.6em;">
       Instruments waiting under warm downlights, holding a quiet charge before hearts ascend.
     </p>
@@ -78,7 +78,7 @@ h1:first-of-type {
 
   <!-- Photo -->
   <img src="images/before-the-passion-unfolds.jpg" alt="Before the Passion Unfolds"
-       style="max-width:100%; height:auto; border-radius:4px; margin-bottom:1em;">
+       style="max-width:100%; height:auto; border-radius:6px; margin-bottom:1em;">
 
   <!-- Link Button -->
   <div style="margin-top:.25em;">
@@ -100,7 +100,7 @@ h1:first-of-type {
 <div style="background-color:#fdf6e3; padding:1.5em; border-radius:8px; margin:2em 0;">
 
   <!-- Caption / Main Text -->
-  <div style="font-family:'Georgia', serif; font-size:1.15em; line-height:1.6; color:#333; margin-bottom:1em;">
+  <div style="font-family:'Georgia', serif; font-size:1.22em; line-height:1.7; color:#333; margin-bottom:1em;">
     <p style="margin-bottom:0.6em;">
       The resonance lingers, mingling with the warmth of a summer night, as if the music itself is reluctant to leave.
     </p>
@@ -111,7 +111,7 @@ h1:first-of-type {
 
   <!-- Photo -->
   <img src="images/echoes-melt-into-summer-night.jpg" alt="Echoes Melt into the Summer Night"
-       style="max-width:100%; height:auto; border-radius:4px; margin-bottom:1em;">
+       style="max-width:100%; height:auto; border-radius:6px; margin-bottom:1em;">
 
   <!-- Link Button -->
   <div style="margin-top:.25em;">
