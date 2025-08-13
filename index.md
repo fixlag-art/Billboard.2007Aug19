@@ -93,7 +93,7 @@ h1:first-of-type {
       響きは夏の夜の温もりと混じり合い、まるで音楽そのものが去りがたく留まっているかのよう。
     </p>
   </div>
-  <img src="images/echoes-melt-into-summer-night.jpg" alt="Echoes Melt into the Summer Night"
+  <img src="images/echoes-and-afterimages.jpg" alt="Echoes Melt into the Summer Night"
        style="max-width:100%; height:auto; border-radius:6px; margin-bottom:1.2em;">
   <div style="margin-top:.25em;">
     <a href="https://music.amazon.co.jp/user-playlists/cde5675021a04698ba0e51c0a7b7bc13jajp?ref=dm_sh_5646-30f6-5901-975e-21550&tag=shoichi-22"
